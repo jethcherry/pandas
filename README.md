@@ -1,0 +1,2 @@
+
+Pandas is a powerful Python library used for data manipulation and analysis. It provides data structures and functions to efficiently handle structured data, such as tables and time series, making tasks like data cleaning, transformation, and exploration easier and more intuitive. With its DataFrame and Series objects, along with a wide range of methods for data manipulation, aggregation, and visualization, Pandas is widely used in data science, machine learning, and other domains where data processing is crucial.
